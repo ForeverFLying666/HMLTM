@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SqlServerLink/.idea/SqlServerLink.iml" filepath="$PROJECT_DIR$/SqlServerLink/.idea/SqlServerLink.iml" />
-      <module fileurl="file://G:/Scrapy/htmlspider/.idea/htmlspider.iml" filepath="G:/Scrapy/htmlspider/.idea/htmlspider.iml" />
-      <module fileurl="file://G:/Scrapy/myspider/.idea/myspider.iml" filepath="G:/Scrapy/myspider/.idea/myspider.iml" />
-      <module fileurl="file://G:/Scrapy/myspiderthree/.idea/myspiderthree.iml" filepath="G:/Scrapy/myspiderthree/.idea/myspiderthree.iml" />
-      <module fileurl="file://G:/Scrapy/myspidertwo/.idea/myspidertwo.iml" filepath="G:/Scrapy/myspidertwo/.idea/myspidertwo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/python文件.iml" filepath="$PROJECT_DIR$/.idea/python文件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MMICAN.iml" filepath="$PROJECT_DIR$/.idea/MMICAN.iml" />
     </modules>
   </component>
 </project>
