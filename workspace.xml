@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/NumberError.py" line="3" />
+    <bookmark url="file://$PROJECT_DIR$/Reptilian/Test1.py" line="91" />
+    <bookmark url="file://$PROJECT_DIR$/java/PrintInfo.py" line="11" />
+    <bookmark url="file://$PROJECT_DIR$/java/PrintInfo.py" line="88" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f12fd251-233b-4870-9d43-82f916157d88" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python文件" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bookTest1/线性回归/Test2.py" />
+        <option value="$PROJECT_DIR$/bookTest1/线性回归/Test3.py" />
+        <option value="$PROJECT_DIR$/bookTest1/线性回归/Test4.py" />
+        <option value="$PROJECT_DIR$/bookTest1/线性回归/Test5.py" />
+        <option value="$PROJECT_DIR$/bookTest1/线性回归/Test6.py" />
+        <option value="$PROJECT_DIR$/bookTest1/logistics回归/Test1.py" />
+        <option value="$PROJECT_DIR$/bookTest1/logistics回归/Test2.py" />
+        <option value="$PROJECT_DIR$/bookTest1/fillna.py" />
+        <option value="$PROJECT_DIR$/bookTest1/logistics回归/Test3.py" />
+        <option value="$PROJECT_DIR$/bookTest1/K 均值聚类/1.py" />
+        <option value="$PROJECT_DIR$/bookTest1/K 均值聚类/Test3.py" />
+        <option value="$PROJECT_DIR$/bookTest1/K 均值聚类/Test2.py" />
+        <option value="$PROJECT_DIR$/bookTest1/决策树/Test1.py" />
+        <option value="$PROJECT_DIR$/bookTest1/countVectorizer.py" />
+        <option value="$PROJECT_DIR$/bookTest1/特征提取和主成分分析/Test1.py" />
+        <option value="$PROJECT_DIR$/bookTest1/todense.py" />
+        <option value="$PROJECT_DIR$/bookTest1/train_test_split.py" />
+        <option value="$PROJECT_DIR$/bookTest1/特征提取和主成分分析/Test2.py" />
+        <option value="$PROJECT_DIR$/bookTest1/特征提取和主成分分析/Test3.py" />
+        <option value="$PROJECT_DIR$/bookTest1/reshape.py" />
+        <option value="$PROJECT_DIR$/bookTest1/特征提取和主成分分析/Test4.py" />
+        <option value="$PROJECT_DIR$/bookTest1/朴素贝叶斯/Test1.py" />
+        <option value="$PROJECT_DIR$/bookTest1/朴素贝叶斯/Test2.py" />
+        <option value="$PROJECT_DIR$/bookTest1/K 均值聚类/Test1.py" />
+        <option value="G:/Scrapy/htmlspider/htmlspider/spiders/jobspider.py" />
+        <option value="G:/Scrapy/htmlspider/htmlspider/items.py" />
+        <option value="G:/Scrapy/htmlspider/htmlspider/pipelines.py" />
+        <option value="$PROJECT_DIR$/PTA.py" />
+        <option value="G:/政策爬虫推送1.0/成都经信厅爬虫.py" />
+        <option value="$PROJECT_DIR$/Reptilian/用了css选择器和js的爬虫.py" />
+        <option value="G:/政策爬虫推送1.0/成都市经信局.py" />
+        <option value="$PROJECT_DIR$/Reptilian/使用lxml来解析html文本.py" />
+        <option value="$PROJECT_DIR$/Reptilian/爬取没有验证码的登录.py" />
+        <option value="$PROJECT_DIR$/Reptilian/模拟登录.py" />
+        <option value="G:/学习资料/spider/网课资源/day05/lxml_practice1.py" />
+        <option value="$PROJECT_DIR$/Reptilian/lxml.py" />
+        <option value="$PROJECT_DIR$/Reptilian/Test/lxml.py" />
+        <option value="G:/学习资料/spider/网课资源/day05/shanbei_spider.py" />
+        <option value="G:/学习资料/spider/实战项目/单词爬虫/word_spider.py" />
+        <option value="$PROJECT_DIR$/Reptilian/Test/test.py" />
+        <option value="G:/学习资料/spider/实战项目/单词爬虫/word.py" />
+        <option value="G:/学习资料/spider/网课资源/day05/day05/class_demo.py" />
+        <option value="$PROJECT_DIR$/Reptilian/Test/模拟登录.py" />
+        <option value="$PROJECT_DIR$/Reptilian/test.py" />
+        <option value="G:/学习资料/spider/网课资源/day07/douban_spider.py" />
+        <option value="G:/学习资料/spider/实战项目/豆瓣爬虫/douban_spider.py" />
+        <option value="G:/学习资料/spider/网课资源/day07/excle_wirte.py" />
+        <option value="G:/学习资料/spider/实战项目/高德爬虫/weather.py" />
+        <option value="G:/学习资料/spider/网课资源/day07/day07/tencent_ajax.py" />
+        <option value="G:/学习资料/spider/实战项目/高德request爬虫/weather.py" />
+        <option value="G:/学习资料/spider/实战项目/腾讯招聘信息ajax爬虫/tencent_ajax.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="70" />
+    <option name="y" value="345" />
+    <option name="width" value="1400" />
+    <option name="height" value="885" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="BuildoutCfg" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\python文件\Reptilian" />
+      <recent name="F:\python文件\Reptilian\Test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.excle_wirte">
+    <configuration name="爬取没有验证码的登录" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reptilian" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reptilian/爬取没有验证码的登录.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="模拟登录" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reptilian" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reptilian/模拟登录.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="爬取没有验证码的登录" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reptilian" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reptilian/爬取没有验证码的登录.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SqlServerLink" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="G:/学习资料/spider/网课资源/day05/day05" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="G:/学习资料/spider/网课资源/day05/day05/class_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="douban_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SqlServerLink" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="G:/学习资料/spider/实战项目/豆瓣爬虫" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="G:/学习资料/spider/实战项目/豆瓣爬虫/douban_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="excle_wirte" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myspiderthree" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="G:/学习资料/spider/实战项目/豆瓣动态网页爬虫" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="G:/学习资料/spider/实战项目/豆瓣动态网页爬虫/excle_wirte.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider_main" type="PythonConfigurationType" factoryName="Python">
+      <module name="python文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reptilian" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reptilian/spider_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reptilian" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reptilian/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reptilian/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:\python文件\Reptilian\test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.爬取没有验证码的登录" />
+      <item itemvalue="Python.class_demo" />
+      <item itemvalue="Python.douban_spider" />
+      <item itemvalue="Python.excle_wirte" />
+      <item itemvalue="Python.spider_main" />
+      <item itemvalue="Python.test (1)" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.excle_wirte" />
+        <item itemvalue="Python.douban_spider" />
+        <item itemvalue="Python.class_demo" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f12fd251-233b-4870-9d43-82f916157d88" name="Default Changelist" comment="" />
+      <created>1553137845292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553137845292</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.79535866" visible="true" weight="0.19286658" />
+      <window_info id="Structure" order="1" sideWeight="0.20716113" side_tool="true" weight="0.165786" />
+      <window_info id="Favorites" order="2" sideWeight="0.20464136" side_tool="true" weight="0.165786" />
+      <window_info id="DB Browser" order="3" weight="0.17437252" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32890856" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.67503303" weight="0.145686" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.497358" weight="0.39242685" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.32496697" side_tool="true" visible="true" weight="0.145686" />
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.5011211" side_tool="true" weight="0.32228917" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4993395" weight="0.32956153" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4980185" weight="0.32956153" />
+      <window_info anchor="bottom" id="DB Execution Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://G:/Eclipse/python索引建立/插入.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://G:/Scrapy/htmlspider/htmlspider/spiders/jobspider.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://G:/学习资料/spider/实战项目/豆瓣动态网页爬虫/excle_wirte.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bookTest1/特征提取和主成分分析/Test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookTest1/logistics回归/Test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-886">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#34#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookTest1/决策树/Test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2175">
+          <caret line="94" column="85" lean-forward="true" selection-start-line="94" selection-start-column="66" selection-end-line="94" selection-end-column="85" />
+          <folding>
+            <element signature="e#31#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Scrapy/htmlspider/htmlspider/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PTA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reptilian/html_outputer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reptilian/html_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reptilian/html_downloader.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reptilian/spider_main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reptilian/ReptilianTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/政策爬虫推送1.0/成都经信厅爬虫.py" />
+    <entry file="file://G:/政策爬虫推送1.0/成都市经信局.py" />
+    <entry file="file://G:/学习资料/spider/新建文件夹/day03/gaode_map.py" />
+    <entry file="file://G:/学习资料/spider/网课资源/day04/guba_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-750" />
+      </provider>
+    </entry>
+    <entry file="file://G:/学习资料/spider/网课资源/day04/maoyan_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reptilian/Test/爬取没有验证码的登录.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/学习资料/spider/高德爬虫/gaode_map.py" />
+    <entry file="file://G:/学习资料/spider/网课资源/day05/lxml_practice1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/学习资料/spider/网课资源/day05/day05/lxml_demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-976" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reptilian/Test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2175" />
+      </provider>
+    </entry>
+    <entry file="file://G:/学习资料/spider/网课资源/day05/shanbei_spider.py" />
+    <entry file="file://G:/学习资料/spider/实战项目/单词爬虫/word_spider.py" />
+    <entry file="file://$PROJECT_DIR$/Reptilian/Test/使用lxml来解析html文本.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-875">
+          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding>
+            <element signature="e#46#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reptilian/Test/lxml.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/学习资料/spider/网课资源/day05/excle_utils/excle_wirte.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Scrapy/htmlspider/htmlspider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reptilian/Test/用了css选择器和js的爬虫.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="e#46#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/学习资料/spider/网课资源/day05/day05/class_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/学习资料/spider/网课资源/day06/selenium_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Scrapy/htmlspider/htmlspider/spiders/jobspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Scrapy/htmlspider/htmlspider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Scrapy/htmlspider/htmlspider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#170#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/学习资料/spider/网课资源/day07/douban_spider.py" />
+    <entry file="file://G:/学习资料/spider/网课资源/day07/excle_wirte.py" />
+    <entry file="file://G:/学习资料/spider/实战项目/豆瓣爬虫/douban_spider.py" />
+    <entry file="file://G:/学习资料/spider/实战项目/单词爬虫/word.py" />
+    <entry file="file://G:/学习资料/spider/实战项目/高德爬虫/weather.py" />
+    <entry file="file://$PROJECT_DIR$/Reptilian/Test/模拟登录.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reptilian/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookTest1/朴素贝叶斯/Test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <element signature="e#40#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/学习资料/spider/网课资源/day07/day07/tencent_ajax.py" />
+    <entry file="file://G:/学习资料/spider/实战项目/高德request爬虫/weather.py" />
+    <entry file="file://G:/学习资料/spider/实战项目/腾讯招聘信息ajax爬虫/tencent_ajax.py" />
+    <entry file="file://G:/学习资料/spider/实战项目/腾讯招聘request+ajax爬虫/tencent_ajax.py" />
+    <entry file="file://G:/学习资料/spider/实战项目/豆瓣动态网页爬虫/excle_wirte.py" />
+    <entry file="file://G:/学习资料/spider/实战项目/单词爬虫并储存在xls/word.py" />
+    <entry file="file://G:/学习资料/spider/实战项目/豆瓣动态网页爬虫/douban_spider.py" />
+    <entry file="file://G:/学习资料/spider/实战项目/豆瓣selenium+etree爬虫/excle_wirte.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/学习资料/spider/实战项目/豆瓣selenium+etree爬虫/douban_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-235" />
+      </provider>
+    </entry>
+  </component>
+</project>
